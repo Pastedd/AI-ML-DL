@@ -2,6 +2,6 @@
 
 - Load an image and measure the similarity
 
-#1 RESNET
+#01 RESNET
 
-#2 VGG
+#02 VGG
