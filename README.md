@@ -1,6 +1,6 @@
 # AI (ML/DL) Project
 
-*Load an image and measure the similarity
+- Load an image and measure the similarity
 
 #1 RESNET
 
