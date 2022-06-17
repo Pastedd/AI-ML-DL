@@ -1,3 +1,5 @@
+# Please Run .ipynb
+
 # Lab 10 MNIST and softmax
 import torch
 import torchvision.datasets as dsets
